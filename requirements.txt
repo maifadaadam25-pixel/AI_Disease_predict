@@ -1,0 +1,8 @@
+                DIABETES DISEASE AI PREDICTION
+REQUIREMENTS:
+Numpy
+Pandas
+Scikit-Learn
+Seaborn
+Matplotlip
+Imblearn
