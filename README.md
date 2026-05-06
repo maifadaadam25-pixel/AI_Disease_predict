@@ -29,6 +29,10 @@ SMOTE
 
 StandardScaler
 
+#SCREENSHOTS
+![image alt](https://github.com/maifadaadam25-pixel/AI_Disease_predict/blob/9322b182b2c7a778a784dd2eda02c9929a580cf6/Screenshot%20(3).png)
+
+
 
 
 
