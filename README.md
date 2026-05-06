@@ -41,8 +41,10 @@ StandardScaler
 
 
 
-##SUMMARY##
+## SUMMARY
 
 Precision:0.81
+
 Recall:0.93
+
 Accuracy:0.77
