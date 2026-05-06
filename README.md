@@ -34,6 +34,9 @@ StandardScaler
 
 ![image alt](https://github.com/maifadaadam25-pixel/AI_Disease_predict/blob/main/Screenshot%20(4).png?raw=true)
 
+![image alt](https://github.com/maifadaadam25-pixel/AI_Disease_predict/blob/main/Screenshot%20(5).png?raw=true)
+
+![image alt](https://github.com/maifadaadam25-pixel/AI_Disease_predict/blob/main/Screenshot%20(6).png?raw=true)
 
 
 
